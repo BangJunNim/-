@@ -1,3 +1,0 @@
-﻿  1-2.cpp
-c:\users\뱅준님\downloads\191018 이병준\1-2\1-2.cpp(12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  1-2.vcxproj -> C:\Users\뱅준님\Downloads\191018 이병준\Debug\1-2.exe
